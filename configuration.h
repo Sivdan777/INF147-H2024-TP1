@@ -1,0 +1,5 @@
+#define MODE_APPLICATION 0
+#define MODE_TEST 1
+#define PORT_UDP  55001
+#define PARITE_PAIRE  0
+#define PARITE_IMPAIRE  1
