@@ -16,7 +16,7 @@ set(PROJECT_SOURCES
         decodeur/a429.c
         decodeur/utilitaire.c
         udp/port_udp.c
-        )
+)
 
 if (WIN32)
         link_libraries(ws2_32 wsock32)
